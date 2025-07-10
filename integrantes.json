@@ -1,0 +1,17 @@
+{
+    "integrantes": [
+      {
+        "nombre": "Simón",
+        "apellido": "Vergara"
+      },
+      {
+        "nombre": "Angel",
+        "apellido":"Maquera"
+    },
+     {
+        "nombre": "Sebastian",
+        "apellido": "Meza"
+      }
+    ]
+  }
+   
